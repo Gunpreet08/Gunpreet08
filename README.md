@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Gunpreet Kaur
 
-<!--
-**Gunpreet08/Gunpreet08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | 💻 Aspiring Frontend & Java Developer | 💡 Passionate about Web Development, Data Analytics 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Featured Projects
+
+🔹 [📊 DataAnalytics-Project](https://github.com/Gunpreet08/DataAnalytics-Project)  
+Team Leader | IBM SkillsBuild Internship  
+🏆 Secured 4th place out of 6123 teams  
+📈 Tools: Power BI, Python, MS Excel
+
+🔹 [💡 Open Source Contribution – Medical Website](https://github.com/Gunpreet08/OpenSource-Contribution-MedicalWebsite)  
+Contributed to UI improvements in GSSoC Extended 2024  
+✅ Pull request merged successfully!
+
+🔹 [🩺 Medical-Website](https://github.com/Gunpreet08/Medical-Website)  
+Forked repo with frontend improvements for medical services site
+
+
+### 🛠️ Tech Stack
+
+- 💻 Languages: HTML, CSS, Java, Python, SQL
+- 🌐 Tools: Power BI, Git, GitHub
+- 🧠 Learning: Java Full Stack | APIs | Frontend Development
+
+
+### 🏅 Achievements
+
+- 🥇 Top 4 Team @ IBM SkillsBuild Internship 2024
+- ✅ Contributor @ GirlScript Summer of Code - Extended
+- 🐙 Pull Shark Badge on GitHub
+
+
+### 📬 Let's Connect!
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/gunpreet-kaur-8a2728294/) 
+- 📧 Email: gunkaur0827@gmail.com
+

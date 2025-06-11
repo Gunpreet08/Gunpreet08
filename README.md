@@ -6,10 +6,8 @@
 ### 🌟 Featured Projects
 
 🔹 [HackMate](https://github.com/Gunpreet08/HackMate)
-
-A fullstack hackathon collaboration platform that helps users find teammates, chat in real-time, solve challenges, and submit projects.
+A fullstack hackathon collaboration platform that helps users find teammates, chat in real-time, solve challenges, and submit projects.   
 **Tech Stack**: Node.js, Express.js, MongoDB, Python, Socket.io, HTML/CSS/JS  
-
 
 🔹 [📊 DataAnalytics-Project](https://github.com/Gunpreet08/DataAnalytics-Project)  
 Team Leader | IBM SkillsBuild Internship  

@@ -5,6 +5,12 @@
 
 ### 🌟 Featured Projects
 
+🔹 [🎮 Word Guessing Game](https://github.com/Gunpreet08/word-guess-game)
+- A Python-based game with both CLI and GUI (Tkinter)
+- Interactive gameplay  
+- Multiple difficulty levels  
+- GUI with buttons and dialog boxes  
+
 🔹 [HackMate](https://github.com/Gunpreet08/HackMate)  
 - A fullstack hackathon collaboration platform that helps users find teammates, chat in real-time, solve challenges, and submit projects.   
 - **Tech Stack**: Node.js, Express.js, MongoDB, Python, Socket.io, HTML/CSS/JS  

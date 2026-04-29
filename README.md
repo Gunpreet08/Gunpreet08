@@ -13,7 +13,8 @@ A Django-based backend API to optimize fuel stops for long-distance travel
 - Minimizes API calls using efficient route processing
 - Returns route map + total fuel cost estimation
 
-🔹 [🤖 AI Data Analyst Dashboard](https://github.com/Gunpreet08/word-guess-game)
+🔹 [🤖 AI Data Analyst Dashboard](https://github.com/Gunpreet08/ai-data-analyst-dashboard)
+
 An AI-powered data analysis tool built with Streamlit
 - Upload CSV → get automated insights instantly
 - Integrated Groq API for AI-generated summaries & KPIs

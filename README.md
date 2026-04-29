@@ -5,6 +5,27 @@
 
 ### 🌟 Featured Projects
 
+🔹 [⛽ Fuel Route Optimization API](https://github.com/Gunpreet08/word-guess-game)
+A Django-based backend API to optimize fuel stops for long-distance travel
+- Calculates most cost-effective fuel stops based on fuel price dataset
+- Supports multiple refueling points (vehicle range: 500 miles)
+- Minimizes API calls using efficient route processing
+- Returns route map + total fuel cost estimation
+
+🔹 [🤖 AI Data Analyst Dashboard](https://github.com/Gunpreet08/word-guess-game)
+An AI-powered data analysis tool built with Streamlit
+- Upload CSV → get automated insights instantly
+- Integrated Groq API for AI-generated summaries & KPIs
+- Includes data cleaning & preprocessing (null handling, type fixing, normalization)
+- Visualizations using Pandas & Matplotlib
+
+🔹 [📈 Trader Sentiment Analysis](https://github.com/Gunpreet08/word-guess-game)
+Data analysis project to evaluate trading performance based on sentiment
+- Analyzed PnL vs market sentiment
+- Identified behavioral trading patterns
+- Used Python (Pandas, Matplotlib) for insights & visualization
+- Built charts for decision-making strategies 
+
 🔹 [🎮 Word Guessing Game](https://github.com/Gunpreet08/word-guess-game)
 - A Python-based game with both CLI and GUI (Tkinter)
 - Interactive gameplay  

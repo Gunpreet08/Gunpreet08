@@ -5,7 +5,7 @@
 
 ### 🌟 Featured Projects
 
-🔹 [⛽ Fuel Route Optimization API]([https://github.com/Gunpreet08/word-guess-game](https://github.com/Gunpreet08/fuel-route-optimization-api))
+🔹 [⛽ Fuel Route Optimization API](https://github.com/Gunpreet08/fuel-route-optimization-api)
 
 A Django-based backend API to optimize fuel stops for long-distance travel
 - Calculates most cost-effective fuel stops based on fuel price dataset

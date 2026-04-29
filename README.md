@@ -21,7 +21,8 @@ An AI-powered data analysis tool built with Streamlit
 - Includes data cleaning & preprocessing (null handling, type fixing, normalization)
 - Visualizations using Pandas & Matplotlib
 
-🔹 [📈 Trader Sentiment Analysis](https://github.com/Gunpreet08/word-guess-game)
+🔹 [📈 Trader Sentiment Analysis](https://github.com/Gunpreet08/trader-sentiment-analysis)
+
 Data analysis project to evaluate trading performance based on sentiment
 - Analyzed PnL vs market sentiment
 - Identified behavioral trading patterns

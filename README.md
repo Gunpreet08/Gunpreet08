@@ -43,7 +43,7 @@ Team Leader | IBM SkillsBuild Internship
 - Interactive gameplay  
 - Multiple difficulty levels  
 - GUI with buttons and dialog boxes
-- 
+  
 🔹 [💡 Open Source Contribution – Medical Website](https://github.com/Gunpreet08/OpenSource-Contribution-MedicalWebsite)  
 Contributed to UI improvements in GSSoC Extended 2024  
 ✅ Pull request merged successfully!
@@ -54,13 +54,13 @@ Forked repo with frontend improvements for medical services site
 
 ### 🛠️ Tech Stack
 
-💻 Languages: Python, Java, SQL, JavaScript, TypeScript
-🌐 Frontend: React.js, HTML, CSS, Tailwind
-⚙️ Backend: Django, Node.js, Express.js, REST APIs, Socket.io
-🗄️ Databases: MySQL, MongoDB
-📊 Data: Pandas, NumPy, Power BI
-🤖 AI tools: GitHub Copilot, Groq API, prompt engineering
-🧰 Tools: Git, GitHub, Unix
+- 💻 Languages: Python, Java, SQL, JavaScript, TypeScript
+- 🌐 Frontend: React.js, HTML, CSS, Tailwind
+- ⚙️ Backend: Django, Node.js, Express.js, REST APIs, Socket.io
+- 🗄️ Databases: MySQL, MongoDB
+- 📊 Data: Pandas, NumPy, Power BI
+- 🤖 AI tools: GitHub Copilot, Groq API, prompt engineering
+- 🧰 Tools: Git, GitHub, Unix
 
 
 ### 🏅 Achievements

@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gunpreet Kaur
 
-🎓 BCA Student | 💻 Aspiring Frontend & Java Developer | 💡 Passionate about Web Development, Data Analytics 
+💻 System Associate @ Infosys | Data Analytics & Backend Engineering | Python · SQL · React · Django | Building AI-driven enterprise dashboards
 
 
 ### 🌟 Featured Projects
@@ -21,6 +21,10 @@ An AI-powered data analysis tool built with Streamlit
 - Includes data cleaning & preprocessing (null handling, type fixing, normalization)
 - Visualizations using Pandas & Matplotlib
 
+🔹 [HackMate](https://github.com/Gunpreet08/HackMate)  
+- A fullstack hackathon collaboration platform that helps users find teammates, chat in real-time, solve challenges, and submit projects.   
+- **Tech Stack**: Node.js, Express.js, MongoDB, Python, Socket.io, HTML/CSS/JS
+
 🔹 [📈 Trader Sentiment Analysis](https://github.com/Gunpreet08/trader-sentiment-analysis)
 
 Data analysis project to evaluate trading performance based on sentiment
@@ -29,21 +33,17 @@ Data analysis project to evaluate trading performance based on sentiment
 - Used Python (Pandas, Matplotlib) for insights & visualization
 - Built charts for decision-making strategies 
 
-🔹 [🎮 Word Guessing Game](https://github.com/Gunpreet08/word-guess-game)
-- A Python-based game with both CLI and GUI (Tkinter)
-- Interactive gameplay  
-- Multiple difficulty levels  
-- GUI with buttons and dialog boxes  
-
-🔹 [HackMate](https://github.com/Gunpreet08/HackMate)  
-- A fullstack hackathon collaboration platform that helps users find teammates, chat in real-time, solve challenges, and submit projects.   
-- **Tech Stack**: Node.js, Express.js, MongoDB, Python, Socket.io, HTML/CSS/JS  
-
 🔹 [📊 DataAnalytics-Project](https://github.com/Gunpreet08/DataAnalytics-Project)  
 Team Leader | IBM SkillsBuild Internship  
 🏆 Secured 4th place out of 6123 teams  
 📈 Tools: Power BI, Python, MS Excel
 
+🔹 [🎮 Word Guessing Game](https://github.com/Gunpreet08/word-guess-game)
+- A Python-based game with both CLI and GUI (Tkinter)
+- Interactive gameplay  
+- Multiple difficulty levels  
+- GUI with buttons and dialog boxes
+- 
 🔹 [💡 Open Source Contribution – Medical Website](https://github.com/Gunpreet08/OpenSource-Contribution-MedicalWebsite)  
 Contributed to UI improvements in GSSoC Extended 2024  
 ✅ Pull request merged successfully!
@@ -54,9 +54,13 @@ Forked repo with frontend improvements for medical services site
 
 ### 🛠️ Tech Stack
 
-- 💻 Languages: HTML, CSS, Java, Python, SQL
-- 🌐 Tools: Power BI, Git, GitHub
-- 🧠 Learning: Java Full Stack | APIs | Frontend Development
+💻 Languages: Python, Java, SQL, JavaScript, TypeScript
+🌐 Frontend: React.js, HTML, CSS, Tailwind
+⚙️ Backend: Django, Node.js, Express.js, REST APIs, Socket.io
+🗄️ Databases: MySQL, MongoDB
+📊 Data: Pandas, NumPy, Power BI
+🤖 AI tools: GitHub Copilot, Groq API, prompt engineering
+🧰 Tools: Git, GitHub, Unix
 
 
 ### 🏅 Achievements
